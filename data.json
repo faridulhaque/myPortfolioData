@@ -2,6 +2,9 @@
   {
     "id": "1",
     "name": "Cure Tools",
+    "live": "https://assignment-12-466b5.web.app/",
+    "codeClient": "https://github.com/faridulhaque/Cure-Tools",
+    "codeServer": "https://github.com/faridulhaque/Cure-Tools-server",
     "description": "The website is built for a manufacturing farm that manufactures medical equipments for the dentists.",
     "img": "./images/curetools.png",
     "images": {
@@ -29,6 +32,9 @@
   {
     "id": "2",
     "name": "Fresh Fruit",
+    "live": "https://assignment-11-ce30f.web.app/",
+    "codeClient": "https://github.com/faridulhaque/Fresh-Fruit",
+    "codeServer": "https://github.com/faridulhaque/Fresh-Fruit-Server",
     "description": "This website is designed for a whole-seller company that imports fruits or buys them from the farms and sells to the retailers.",
     "img": "./images/freshfruit.png",
     "images" : {
@@ -58,6 +64,9 @@
   {
     "id": "3",
     "name": "Pet Doctor",
+    "live": "https://assignment10-petsdoctor.web.app/",
+    "codeClient": "https://github.com/faridulhaque/Pet-Doctor",
+    "codeServer": "",
     "description": "that is a personal website for a vet that provides healthcare for pets.",
     "img": "./images/petdoc.png",
     "images": {
