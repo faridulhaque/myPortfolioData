@@ -1,21 +1,42 @@
 [
- 
-    {
-      "id": "2",
-      "name": "Fresh Fruit",
-      "description": "This website is designed for a whole-seller company that imports fruits or buys them from the farms and sells to the retailers.",
-      "img": "./images/freshfruit.png"
+  {
+    "id": "1",
+    "name": "Cure Tools",
+    "description": "The website is built for a manufacturing farm that manufactures medical equipments for the dentists.",
+    "img": "./images/curetools.png",
+    "images": {
+      "first" : "",
+      "second" : "",
+      "third" : "",
+      "fourth" : "",
+      "fifth" : ""
     },
-    {
-      "id": "3",
-      "name": "Cure Tools",
-      "description": "The website is built for a manufacturing farm that manufactures medical equipments for the dentists.",
-      "img": "./images/curetools.png"
-    },
-    {
-      "id": "1",
-      "name": "Pet Doctor",
-      "description": "that is a personal website for a vet that provides healthcare for pets.",
-      "img": "./images/petdoc.png"
+    "details" : {
+      "first" : "",
+      "second" : "",
+      "third" : "",
+      "forth" : "",
+      "fifth" : ""
+    }, 
+    "features" : {
+      "first" : "",
+      "second" : "",
+      "third" : "",
+      "forth" : "",
+      "fifth" : ""
     }
-  ]
+  },
+  {
+    "id": "2",
+    "name": "Fresh Fruit",
+    "description": "This website is designed for a whole-seller company that imports fruits or buys them from the farms and sells to the retailers.",
+    "img": "./images/freshfruit.png"
+  },
+
+  {
+    "id": "3",
+    "name": "Pet Doctor",
+    "description": "that is a personal website for a vet that provides healthcare for pets.",
+    "img": "./images/petdoc.png"
+  }
+]
