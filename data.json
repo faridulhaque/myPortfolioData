@@ -8,12 +8,13 @@
     "description": "The website is built for a manufacturing farm that manufactures medical equipments for the dentists.",
     "img": "./images/curetools.png",
     "images": {
-      "first" : "./images/curetools/ctmyorders.png",
-      "second" : "./images/curetools/ctmanageorders.png",
-      "third" : "./images/curetools/ctmanageusers.png",
-      "fourth" : "./images/curetools/ctprofile.png",
-      "fifth" : "./images/curetools/ctreviews.png"
+      "first" : "https://i.ibb.co/0h9QqFm/ctmyorders.png",
+      "second" : "https://i.ibb.co/QrFckz0/ctmanageorders.png",
+      "third" : "https://i.ibb.co/n72ZhCw/ctmanageusers.png",
+      "fourth" : "https://i.ibb.co/qpjG1nq/ctprofile.png",
+      "fifth" : "https://i.ibb.co/88gJFzn/ctreviews.png"
     },
+
     "details" : {
       "first" : "This is the 'My Orders' page which is accessible for normal users only. The user can pay for his item or cancel the order. After payment, 'payment status' will be changed from pending to paid.",
       "second" : "The page 'Manage Orders' is for admins only. The 'Shipment' button becomes enabled when the payment status is paid and turns disabled back when it is clicked. ",
