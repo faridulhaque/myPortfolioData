@@ -8,18 +8,18 @@
     "description": "The website is built for a manufacturing farm that manufactures medical equipments for the dentists.",
     "img": "./images/curetools.png",
     "images": {
-      "first" : "",
-      "second" : "",
-      "third" : "",
-      "fourth" : "",
-      "fifth" : ""
+      "first" : "./images/curetools/ctmyorders.png",
+      "second" : "./images/curetools/ctmanageorders.png",
+      "third" : "./images/curetools/ctmanageusers.png",
+      "fourth" : "./images/curetools/ctprofile.png",
+      "fifth" : "./images/curetools/ctreviews.png"
     },
     "details" : {
-      "first" : "",
-      "second" : "",
-      "third" : "",
-      "forth" : "",
-      "fifth" : ""
+      "first" : "This is the 'My Orders' page which is accessible for normal users only. The user can pay for his item or cancel the order. After payment, 'payment status' will be changed from pending to paid.",
+      "second" : "The page 'Manage Orders' is for admins only. The 'Shipment' button becomes enabled when the payment status is paid and turns disabled back when it is clicked. ",
+      "third" : "An admin can make a normal user admin and remove any user from the database. If any of the users is already an admin, the button in his row will remain disabled.",
+      "forth" : "That is the 'My Profile' page, which is the most tricky one on this site. Both admin and the normal user will see the page. They can edit the profile by clicking the edit button and can save new information.",
+      "fifth" : "A user can give feedback and his feedback will appear on the home page."
     }, 
     "features" : {
       "first" : "The site is accessible to both admins and users.",
