@@ -19,7 +19,7 @@
       "first" : "This is the 'My Orders' page which is accessible for normal users only. The user can pay for his item or cancel the order. After payment, 'payment status' will be changed from pending to paid.",
       "second" : "The page 'Manage Orders' is for admins only. The 'Shipment' button becomes enabled when the payment status is paid and turns disabled back when it is clicked. ",
       "third" : "An admin can make a normal user admin and remove any user from the database. If any of the users is already an admin, the button in his row will remain disabled.",
-      "forth" : "That is the 'My Profile' page, which is the most tricky one on this site. Both admin and the normal user will see the page. They can edit the profile by clicking the edit button and can save new information.",
+      "fourth" : "That is the 'My Profile' page, which is the most tricky one on this site. Both admin and the normal user will see the page. They can edit the profile by clicking the edit button and can save new information.",
       "fifth" : "A user can give feedback and his feedback will appear on the home page."
     }, 
     "features" : {
