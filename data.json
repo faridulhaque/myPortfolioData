@@ -2,11 +2,12 @@
   {
     "id": "1",
     "name": "Cure Tools",
-    "live": "https://assignment-12-466b5.web.app/",
-    "codeClient": "https://github.com/faridulhaque/Cure-Tools",
-    "codeServer": "https://github.com/faridulhaque/Cure-Tools-server",
-    "description": "The website is built for a manufacturing farm that manufactures medical equipments for the dentists.",
+    "live": "https://cure-tools.web.app/",
+    "codeClient": "https://github.com/faridulhaque/cure-tools-client",
+    "codeServer": "https://github.com/faridulhaque/cure-tools-server",
+    "description": "The website was built for a manufacturing farm that provides medical equipments for the dentists.",
     "img": "./images/curetools.png",
+    "video": "",
     "images": {
       "first": "https://i.ibb.co/0h9QqFm/ctmyorders.png",
       "second": "https://i.ibb.co/QrFckz0/ctmanageorders.png",
@@ -38,6 +39,7 @@
     "codeServer": "https://github.com/faridulhaque/Fresh-Fruit-Server",
     "description": "This website is designed for a whole-seller company that imports fruits or buys them from the farms and sells to the retailers.",
     "img": "./images/freshfruit.png",
+    "video": "",
     "images": {
       "first": "https://i.ibb.co/Q9WcM0S/ffmanageitem.png",
       "second": "https://i.ibb.co/XsVsL4d/ffadditem.png",
@@ -64,17 +66,18 @@
 
   {
     "id": "3",
-    "name": "Pet Doctor",
-    "live": "https://assignment10-petsdoctor.web.app/",
-    "codeClient": "https://github.com/faridulhaque/Pet-Doctor",
+    "name": "Pet Care",
+    "live": "https://petcare-b3672.web.app/",
+    "codeClient": "https://github.com/faridulhaque/Pet-Care",
     "codeServer": "",
-    "description": "that is a personal website for a vet that provides healthcare for pets.",
-    "img": "./images/petdoc.png",
+    "description": "That is a personal website for a vet Who provides healthcare for pets.",
+    "img": "./images/Pet-Care-1.png",
+    "video": "",
     "images": {
-      "first": "",
+      "first": "https://i.ibb.co/KjGCz6m/Pet-Care-1.png",
       "second": "",
-      "third": "",
-      "fourth": "",
+      "third": "https://i.ibb.co/mt7kzMG/Pet-Care.png",
+      "fourth": "https://i.ibb.co/k5KctWX/Pet-Care-2.png",
       "fifth": ""
     },
     "details": {
